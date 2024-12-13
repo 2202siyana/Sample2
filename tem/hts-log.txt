@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 09 Jun 2024 12:15:26 at https://themetechmount.com/html/altech-advanced +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themetechmount.com/html/altech-advanced -O1 "C:\Users\acer\Desktop\teckengin\tem" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:17:49	Error: 	"Not Found" (404) at link https://themetechmount.com/html/altech-advanced/images/bg-image/row-bgimage-5.jpg (from https://themetechmount.com/html/altech-advanced/css/shortcodes.css)
+12:17:49	Error: 	"Not Found" (404) at link https://themetechmount.com/html/altech-advanced/images/bg-image/row-bgimage-6.jpg (from https://themetechmount.com/html/altech-advanced/css/shortcodes.css)
+12:17:49	Error: 	"Not Found" (404) at link https://themetechmount.com/html/altech-advanced/images/bg-image/row-bgimage-7.png (from https://themetechmount.com/html/altech-advanced/css/shortcodes.css)
+12:17:49	Error: 	"Not Found" (404) at link https://themetechmount.com/html/altech-advanced/revolution/css/openhand.cur (from https://themetechmount.com/html/altech-advanced/revolution/css/rs6.css)
+12:17:49	Error: 	"Not Found" (404) at link https://themetechmount.com/html/altech-advanced/revolution/css/closedhand.cur (from https://themetechmount.com/html/altech-advanced/revolution/css/rs6.css)
+12:17:49	Error: 	"Not Found" (404) at link https://themetechmount.com/html/altech-advanced/revolution/assets/gridtile.png (from https://themetechmount.com/html/altech-advanced/revolution/css/rs6.css)
+12:17:49	Error: 	"Not Found" (404) at link https://themetechmount.com/html/altech-advanced/revolution/assets/gridtile_white.png (from https://themetechmount.com/html/altech-advanced/revolution/css/rs6.css)
+12:17:49	Error: 	"Not Found" (404) at link https://themetechmount.com/html/altech-advanced/revolution/assets/gridtile_3x3.png (from https://themetechmount.com/html/altech-advanced/revolution/css/rs6.css)
+12:17:49	Error: 	"Not Found" (404) at link https://themetechmount.com/html/altech-advanced/revolution/assets/gridtile_3x3_white.png (from https://themetechmount.com/html/altech-advanced/revolution/css/rs6.css)
+12:17:49	Error: 	"Not Found" (404) at link https://themetechmount.com/html/altech-advanced/revolution/assets/coloredbg.png (from https://themetechmount.com/html/altech-advanced/revolution/css/rs6.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 32 seconds : 219 links scanned, 208 files written (27674431 bytes overall) [26904329 bytes received at 177002 bytes/sec], 2761937 bytes transferred using HTTP compression in 53 files, ratio 19%, 7.8 requests per connection
+(10 errors, 0 warnings, 0 messages)
